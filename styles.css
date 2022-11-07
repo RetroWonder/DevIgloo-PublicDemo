@@ -27,6 +27,7 @@
   }
   img {
     padding: 2.5%;
+    border-radius: 18px;
   }
   .module-border-wrap {
     border-radius: 8px;
