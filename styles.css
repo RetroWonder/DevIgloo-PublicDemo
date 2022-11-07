@@ -29,11 +29,12 @@
     padding: 2.5%;
   }
   .module-border-wrap {
+    border-radius: 8px;
     width: 325px;
     padding: 1;
     position: relative;
     background: repeating-linear-gradient(#757575, #0027f7);
-    padding: 3px;
+    padding: 8px;
   }
   .module {
     background: #000418;
