@@ -34,7 +34,7 @@
     width: 325px;
     padding: 1;
     position: relative;
-    background: repeating-linear-gradient(#757575, #0027f7);
+    background: repeating-linear-gradient(to top left, #757575, #0027f7);
     padding: 8px;
   }
   .module {
@@ -42,4 +42,3 @@
     color: white;
     padding: 4;
   }
-  
