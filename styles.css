@@ -13,7 +13,7 @@
     padding: 2.5%;
   }
   body {
-    background-color: #000418;
+    background-image: url('images/bg2.jpg');
     margin: auto;
     display: grid;
     place-items: center;
@@ -36,9 +36,11 @@
     position: relative;
     background: repeating-linear-gradient(to top left, #757575, #0027f7);
     padding: 8px;
+    box-shadow: 0 0 10px 0 #FFFFFF;
   }
   .module {
     background: #000418;
     color: white;
     padding: 4;
   }
+
